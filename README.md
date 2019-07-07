@@ -1,5 +1,5 @@
 # Heartrate-Monitor
-This tutorial explains how to create a heart rate monitor using an Arduino Uno
+This tutorial explains how to create a heart rate monitor with an LED that blinks in sync with a heartbeat using an Arduino Uno
 
 ## Parts:
 - Heartrate sensor

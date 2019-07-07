@@ -1,5 +1,5 @@
-# Heartrate Monitor
-This tutorial explains how to make a heartbeat visible using an Arduino Uno, a pulse sensor, and an LED that blinks in sync with a heartbeat.
+# Pulse Sensor plus LED Actuator
+This tutorial explains how to make your heartbeat visible using an Arduino Uno, a pulse sensor, and an LED that blinks in sync with a heartbeat.
 
 ## Parts:
 - Pulse sensor

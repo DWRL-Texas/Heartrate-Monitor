@@ -9,8 +9,8 @@ This tutorial explains how to create a heart rate monitor using an Arduino Uno
 - Jumper wires
 
 ## Install Library:
-- In the Arduino IDE, Tools/Manage Libraries, type into the search field "pulsesensor"
-- The **PulseSensor Playground** library should be the only return
+- In the Arduino IDE, navigate to Tools/Manage Libraries, type into the search field "pulsesensor"
+- The **PulseSensor Playground** library should be the only item found
 - Click *Install*
 
 ## Create Arduino Circuit:

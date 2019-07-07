@@ -4,6 +4,9 @@ This tutorial explains how to create a heart rate monitor using an Arduino Uno
 ## Parts:
 - Heartrate sensor
 - LED
+- 1k resistor
+- Arduino Uno
+- Jumper wires
 
 ## Install Library:
 - In the Arduino IDE, Tools/Manage Libraries, type into the search field "pulsesensor"
